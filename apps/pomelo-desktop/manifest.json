@@ -1,0 +1,22 @@
+{
+  "id": "pomelo-desktop",
+  "name": "Pomelo Desktop",
+  "author": "HaiwenZhang",
+  "description": "A PCB viewer based on GPUI and GPUI Kit, supporting Cadence Allegro (.brd), Altium Designer, ODB++, PADS, Ansys HFSS 3D Layout(edb.def), and KiCad.",
+  "category": "work",
+  "platforms": [
+    "macOS",
+    "Windows",
+    "Linux"
+  ],
+  "website": null,
+  "source": "https://github.com/HaiwenZhang/Pomelo-Desktop",
+  "building": true,
+  "publishedAt": "2026-09-30T00:00:00Z",
+  "previews": [
+    "preview0.png",
+    "preview1.png"
+  ],
+  "stars": 1,
+  "starsUpdatedAt": "2026-10-05T12:24:15.134Z"
+}
