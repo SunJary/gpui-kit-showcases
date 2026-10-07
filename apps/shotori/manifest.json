@@ -4,10 +4,16 @@
   "author": "mengh04",
   "description": "A Wayland-native screenshot tool — select, annotate, pin, long-capture scrolling pages, and read text with on-device OCR.",
   "category": "system",
-  "platforms": ["Linux"],
+  "platforms": [
+    "Linux"
+  ],
   "website": null,
   "source": "https://github.com/shotori-screenshot/shotori",
   "building": true,
   "publishedAt": "2026-10-07T00:00:00Z",
-  "previews": ["preview0.png"]
+  "previews": [
+    "preview0.png"
+  ],
+  "stars": 3,
+  "starsUpdatedAt": "2026-10-07T02:11:10.662Z"
 }
